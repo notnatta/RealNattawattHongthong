@@ -19,7 +19,6 @@ HTML, CSS, JavaScript, NodeJS and Python.
 <a href="https://github.com/RealNattawattHongthong">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=realnattawatthongthong&theme=github_dark" alt="RealNattawattHongthong's GitHub Stats" height="230"/>
 </a>
-
 <a href="https://github.com/RealNattawattHongthong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
 </a>
