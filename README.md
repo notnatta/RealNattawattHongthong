@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, NodeJS and Python.
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
 </a>
 
 [1]: https://nattawatt.com/
