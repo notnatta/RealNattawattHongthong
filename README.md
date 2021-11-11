@@ -26,4 +26,4 @@ HTML, CSS, JavaScript, NodeJS and Python.
 
 [1]: https://nattawatt.com/
 [2]: https://twitter.com/intent/follow?screen_name=nattawatt17
-[5]: https://github.com/RealNattawattHongthong/
+[3]: https://github.com/RealNattawattHongthong/
