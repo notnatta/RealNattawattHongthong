@@ -1,8 +1,6 @@
 [![RealNattawattHongthong](https://github.com/RealNattawattHongthong/RealNattawattHongthong/raw/main/banner/Realnattawattbanner.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]
-
-
 Hello World,
 
 I am a CRU Student and a Developer, I do code.
@@ -22,7 +20,7 @@ HTML, CSS, JavaScript, NodeJS and Python.
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
 </a>
 
 [1]: https://nattawatt.com/
