@@ -1,4 +1,4 @@
-[![RealNattawattHongthong](https://github.com/RealNattawattHongthong/RealNattawattHongthong/raw/main/banner/Realnattawattbanner.png)][1]
+[![RealNattawattHongthong](https://github.com/RealNattawattHongthong/RealNattawattHongthong/raw/main/banner/Realnattawattbanner1500x500.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]
 Hello World,
