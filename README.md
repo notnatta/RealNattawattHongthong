@@ -4,7 +4,7 @@
 
 Hello World,
 
-I am a CRU Student and a Developer, I do code.
+I am a Student and a Developer, I do code.
 
 Languages
 HTML, CSS, JavaScript, NodeJS and Python.
