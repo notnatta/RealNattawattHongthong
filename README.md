@@ -7,7 +7,7 @@ Hello World,
 I am a Student and a Developer, I do code.   
 I study at Chonradsadornumrung School
 
-Languages
+Languages   
 HTML, CSS, JavaScript, NodeJS and Python.
 
 ## 📬 Socials
