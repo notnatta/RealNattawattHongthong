@@ -25,6 +25,8 @@ HTML, CSS, JavaScript, NodeJS and Python.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realnattawatthongthong&" alt="RealNattawattHongthong" /></p>
+
 [1]: https://nattawatt.com/
 [2]: https://twitter.com/intent/follow?screen_name=nattawatt17
 [3]: https://github.com/RealNattawattHongthong/
