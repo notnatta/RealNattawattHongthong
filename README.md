@@ -20,6 +20,15 @@ Languages
 
 - Website: [nattawatt.com][1]
 - Twitter: [twitter.com/nattawatt17][2]
+<br>
+## Archive projects<br>
+
+- [LinkFree](https://github.com/RealNattawattHongthong/LinkFree)<br>
+- [Bot-for-all-pop.click](https://github.com/RealNattawattHongthong/Bot-for-all-pop.click)<br>
+- [LiveWorksheets-cheat](https://github.com/RealNattawattHongthong/liveworksheet-cheat)<br>
+- [Kahoot-spammer](https://github.com/RealNattawattHongthong/kahoot-spammer)<br>
+- [Helicopter-Helicopter](https://github.com/RealNattawattHongthong/Helicopter-Helicopter)<br>
+<br>
 
 ## &#x1f4c8; My GitHub Stats
 
