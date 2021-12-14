@@ -28,6 +28,7 @@ Languages
 - [LiveWorksheets-cheat](https://github.com/RealNattawattHongthong/liveworksheet-cheat)<br>
 - [Kahoot-spammer](https://github.com/RealNattawattHongthong/kahoot-spammer)<br>
 - [Helicopter-Helicopter](https://github.com/RealNattawattHongthong/Helicopter-Helicopter)<br>
+- [Instagram public profile lookup](https://github.com/RealNattawattHongthong/Instagram-Lookup)<br>
 <br>
 
 ## &#x1f4c8; My GitHub Stats
