@@ -1,8 +1,10 @@
 [![RealNattawattHongthong](https://github.com/RealNattawattHongthong/RealNattawattHongthong/raw/main/banner/Realnattawattbanner1500x500.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]
+
 
 Hello World,
+My name is Nattawatt Hongthong,
+[![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]<br>
 
 I am a Student and a Developer, I do code.   
 I study at Chonradsadornumrung School<br>
