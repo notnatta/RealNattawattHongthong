@@ -38,7 +38,7 @@ Languages
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnattawatthongthong&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealNattawattHongthong&theme=github_dark" height="230"/>
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
