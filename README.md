@@ -34,7 +34,7 @@ Languages
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/RealNattawattHongthong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[RealNattawattHongthong]&theme=github_dark" alt="RealNattawattHongthong's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealNattawattHongthong&theme=github_dark" alt="RealNattawattHongthong's GitHub Stats" height="230"/>
 </a>
 
 <a href="https://github.com/RealNattawattHongthong">
