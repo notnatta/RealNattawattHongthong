@@ -1,7 +1,6 @@
+[![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]<br><br>
 Hello World,<br>
 My name is Nattawatt Hongthong,<br>
-[![GitHub Views](https://komarev.com/ghpvc/?username=realnattawatthongthong&color=FAC151)][5]<br><br>
-
 I am a Student and a Developer, I do code.   
 I study at Chonradsadornumrung School<br>
 
